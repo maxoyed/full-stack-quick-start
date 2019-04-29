@@ -1,0 +1,9 @@
+-i https://pypi.tuna.tsinghua.edu.cn/simple
+click==7.0
+flask-cors==3.0.7
+flask==1.0.2
+itsdangerous==1.1.0
+jinja2==2.10.1
+markupsafe==1.1.1
+six==1.12.0
+werkzeug==0.15.2

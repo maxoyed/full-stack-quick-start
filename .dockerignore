@@ -1,0 +1,7 @@
+### custom rules ###
+**/.DS_Store
+.git
+client
+.gitignore
+.editorconfig
+README.md
